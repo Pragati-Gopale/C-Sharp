@@ -1,0 +1,7 @@
+C:\Users\pragati\source\repos\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\pragati\source\repos\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\pragati\source\repos\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\pragati\source\repos\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\pragati\source\repos\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\pragati\source\repos\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\pragati\source\repos\Variables\Variables\obj\Debug\Variables.pdb
