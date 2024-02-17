@@ -1,0 +1,7 @@
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\bin\Debug\AbstractClassAndMethod.exe.config
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\bin\Debug\AbstractClassAndMethod.exe
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\bin\Debug\AbstractClassAndMethod.pdb
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\obj\Debug\AbstractClassAndMethod.csproj.AssemblyReference.cache
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\obj\Debug\AbstractClassAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\obj\Debug\AbstractClassAndMethod.exe
+C:\Users\pragati\source\repos\AbstractClassAndMethod\AbstractClassAndMethod\obj\Debug\AbstractClassAndMethod.pdb
