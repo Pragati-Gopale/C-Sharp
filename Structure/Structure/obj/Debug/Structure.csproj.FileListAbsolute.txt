@@ -1,0 +1,7 @@
+C:\Users\pragati\source\repos\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\pragati\source\repos\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\pragati\source\repos\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\pragati\source\repos\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\Users\pragati\source\repos\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\pragati\source\repos\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\pragati\source\repos\Structure\Structure\obj\Debug\Structure.pdb
